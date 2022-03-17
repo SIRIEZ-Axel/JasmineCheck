@@ -1,3 +1,3 @@
 # JasmineCheck
 
-### Jasmine test 1,2,3 ###
+***Jasmine test 1,2,3***
